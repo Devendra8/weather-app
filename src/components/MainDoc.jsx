@@ -71,7 +71,7 @@ const MainDoc = () => {
                     <td> {humidity}</td>
                 </tr>
             </table>
-            <button onClick = {() =>changename()}> Update Details</button>
+            {/* <button onClick = {() =>changename()}> Update Details</button> */}
 
         </div>
         </>
